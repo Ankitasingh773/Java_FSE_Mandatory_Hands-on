@@ -1,0 +1,27 @@
+
+.App {
+  font-family: sans-serif; 
+  text-align: center;     
+  margin-top: 50px;       
+}
+
+
+.textRed {
+  color: red; 
+  font-weight: bold; 
+}
+
+
+.textGreen {
+  color: green; 
+  font-weight: bold; 
+}
+
+
+h1 {
+  color: #333;
+}
+
+h3 {
+  color: #555;
+}
